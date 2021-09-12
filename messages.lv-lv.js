@@ -1,31 +1,31 @@
 gj.dialog.messages['lv-lv'] = {
-    Close: 'Затваряне',
-    DefaultTitle: 'Диалогов Прозорец'
+    Close: 'Aizvērt',
+    DefaultTitle: 'Izvēlieties datumu'
 };
 gj.grid.messages['lv-lv'] = {
-    First: 'Първа',
-    Previous: 'Предишна',
-    Next: 'Следваща',
-    Last: 'Последна',
-    Page: 'Страница',
-    FirstPageTooltip: 'Първа Страница',
-    PreviousPageTooltip: 'Предишна Страница',
-    NextPageTooltip: 'Следваща Страница',
-    LastPageTooltip: 'Последна Страница',
-    Refresh: 'Презареждане',
-    Of: 'от',
-    DisplayingRecords: 'Паказани записи',
-    RowsPerPage: 'Редове на страница:',
-    Edit: 'Редактиране',
-    Delete: 'Изтриване',
-    Update: 'Актуализация',
-    Cancel: 'Отказ',
-    NoRecordsFound: 'Няма намерени записи.',
-    Loading: 'Зареждане...'
+    First: 'Pirmā',
+    Previous: 'Iepriekšējā',
+    Next: 'Nākamais',
+    Last: 'Pēdējais',
+    Page: 'Lapa',
+    FirstPageTooltip: 'Pirmā lapa',
+    PreviousPageTooltip: 'Iepriekšējā lapa',
+    NextPageTooltip: 'Nākamā lapa',
+    LastPageTooltip: 'Pēdējā lapa',
+    Refresh: 'Atjaunot',
+    Of: 'no',
+    DisplayingRecords: 'Attēlotie rezultāti',
+    RowsPerPage: 'Rindas lapā:',
+    Edit: 'Labot',
+    Delete: 'Dzēst',
+    Update: 'Atjaunot',
+    Cancel: 'Atcelt',
+    NoRecordsFound: 'Nav ierakstu',
+    Loading: 'Ielādē...'
 };
 gj.editor.messages['lv-lv'] = {
-	bold: 'Удебеляване',
-	italic: 'Накланяне',
+	bold: 'Treknraksts',
+	italic: 'Slīpraksts',
 	strikethrough: 'Зачертаване',
 	underline: 'Подчертаване',
 	listBulleted: 'Списък',
@@ -36,18 +36,18 @@ gj.editor.messages['lv-lv'] = {
 	alignCenter: 'Центриране',
 	alignRight: 'Подравняване в дясно',
 	alignJustify: 'Изравняване',
-	undo: 'Назад',
-	redo: 'Напред'
+	undo: 'atcelt',
+	redo: ''
 };
 gj.core.messages['lv-lv'] = {
-    monthNames: ['Janvāris', 'Февруари', 'Март', 'Април', 'Май', 'Юни', 'Юли', 'Август', 'Септември', 'Октомври', 'Ноември', 'Декември'],
-    monthShortNames: ['Яну', 'Фев', 'Мар', 'Апр', 'Май', 'Юни', 'Юли', 'Авг', 'Сеп', 'ОКт', 'Ное', 'Дек'],
-    weekDaysMin: ['Н', 'П', 'В', 'С', 'Ч', 'П', 'С'],
-    weekDaysShort: ['Нед', 'Пон', 'Вто', 'Сря', 'Чет', 'Пет', 'Съб'],
-    weekDays: ['Неделя', 'Понеделник', 'Вторник', 'Сряда', 'Четвъртък', 'Петък', 'Събота'],
+    monthNames: ['Janvāris', 'Februāris', 'Marts', 'Aprīlis', 'Maijs', 'Jūnijs', 'Jūlijs', 'Augusts', 'Septembris', 'Oktobris', 'Novembris', 'Decembris'],
+    monthShortNames: ['Jan', 'Feb', 'Mar', 'Apr', 'Mai', 'Jūn', 'Jūl', 'Aug', 'Sep', 'Okt', 'Nov', 'Dec'],
+    weekDaysMin: ['Sv', 'Pr', 'Ot', 'Tr', 'Ct', 'Pk', 'Se'],
+    weekDaysShort: ['Svē', 'Pir', 'Otr', 'Tre', 'Cet', 'Pie', 'Ses'],
+    weekDays: ['Svētdiena', 'Pirmdiena', 'Otrdiena', 'Trešdiena', 'Ceturtdiena', 'Piektdiena', 'Sestdiena'],
     am: 'AM',
     pm: 'PM',
     ok: 'ОК',
-    cancel: 'Отказ',
+    cancel: 'Atcelt',
     titleFormat: 'mmmm yyyy'
 };
